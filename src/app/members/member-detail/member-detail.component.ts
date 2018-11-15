@@ -23,7 +23,7 @@ export class MemberDetailComponent implements OnInit {
       this.user = data['user'];
     });
 
-    this.galleryOptions =[
+    this.galleryOptions = [
       {
         width: '500px',
         height: '500px',
